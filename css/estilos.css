@@ -1,11 +1,7 @@
 body{
     color: deepskyblue;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-=======
     font-family: "Arial";
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -15,11 +11,7 @@ body{
     background: #33A;
     box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.5);
     color: white;
-<<<<<<< HEAD
-    font-weight: bold;
-=======
     font-weight: 0;
->>>>>>> cabecera
     margin: 0;
     padding: 0.5em;
 }
